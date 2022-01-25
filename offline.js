@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1642882871,
+	"version": 1643116004,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/wall-sheet0.png",
 		"images/abc-sheet0.png",
@@ -93,6 +93,21 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"jquery.stickytableheaders.min.js",
+		"jquery.tablesorter.js",
+		"theme.black-ice.css",
+		"theme.blue.css",
+		"theme.bootstrap.css",
+		"theme.bootstrap_2.css",
+		"theme.dark.css",
+		"theme.default.css",
+		"theme.dropbox.css",
+		"theme.green.css",
+		"theme.grey.css",
+		"theme.ice.css",
+		"theme.jui.css",
+		"",
+		"firebase.js"
 	]
 }
